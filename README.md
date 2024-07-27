@@ -1,7 +1,9 @@
 # BOT PARA CLINICA SMILEWORKS
 
-Autor: Zunni Rojas B.
-Nombre del Bot: @smileworksbot
+## Autor: Zunni Rojas B.
+
+#### Nombre del Bot: @smileworksbot
+
 
 Este programa fue hecho con Python en su version 3.12.0 y para correrlo es necesario ejecutar el archivo "smileworks_bot.py".
 
